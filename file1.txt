@@ -1,1 +1,3 @@
 adição de funções a file1.txt
+hotfix file1.txt
+
