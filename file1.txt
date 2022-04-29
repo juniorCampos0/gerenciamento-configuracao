@@ -1,0 +1,1 @@
+adição de funções a file1.txt
